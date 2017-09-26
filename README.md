@@ -33,7 +33,7 @@ info@bytcoins.org
 Se aceptan donaciones:
 
 Bitcoin - BTC: 1FJerLmswrCHpmWTb7UXMTPNfK8xX5yk4e
-Ethereum - ETH: 0x6b290c5229c333294da4bd3475876ceeaa0dd461
+Ethereum - ETH: 0x6d248716f4ccbef16b59150d4789d42cf31d5b1d
 Ethereum classic - ETC: 0x50cda6ac868e61dd78a8671a5168ca217095ea44
 Bytcoins: BYT: bxcqHE4e6Dwem8tGqe1xEoVKeoSV3FGnwF5WVMGZVt3yWRUXRqnYdMf2vgHm3TbngEjW5DAoeBcC9CEJMzGNt3f82kX6U1xFQ
 Bytecoin - BCN: 29bN2DyNoWTCjJCz2u13X4L7Dybaxq12nWcS6Gn9sdiD68NxSVsPgTYdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAcZ7mFP
@@ -92,7 +92,7 @@ info@bytcoins.org
 Donations are accepted:
 
 Bitcoin - BTC: 1FJerLmswrCHpmWTb7UXMTPNfK8xX5yk4e
-Ethereum - ETH: 0x6b290c5229c333294da4bd3475876ceeaa0dd461
+Ethereum - ETH: 0x6d248716f4ccbef16b59150d4789d42cf31d5b1d
 Ethereum classic - ETC: 0x50cda6ac868e61dd78a8671a5168ca217095ea44
 Bytcoins: BYT: bxcqHE4e6Dwem8tGqe1xEoVKeoSV3FGnwF5WVMGZVt3yWRUXRqnYdMf2vgHm3TbngEjW5DAoeBcC9CEJMzGNt3f82kX6U1xFQ
 Bytecoin - BCN: 29bN2DyNoWTCjJCz2u13X4L7Dybaxq12nWcS6Gn9sdiD68NxSVsPgTYdi7ok6B5SQT6UXUtQgusruCoXbqUZm8VJAcZ7mFP
