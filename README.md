@@ -2,9 +2,9 @@ BYTCOINS en español
 Nuevo sistema de intercambio igualitario y descentralizado donde los interesados pactan, de manera transparente y anónima, las condiciones de intercambio aseguradas por los nodos en red peer to peer y la cadena de bloques Blockchain con tecnología criptográfica de última generación.
 184 Billones de tokens bytcoins emitidos
 Nodo + Minado en par bajo SERVER
-——————————————————–
+
 CRYPTOMONEDA EN ESPAÑOL
-——————————————————–
+
 
 El sistema “Bytcoins en español” está realizado sobre el protocolo CryptoNote que aporta seguridad, transparencia, anonimato, desvinculación, igualdad y límite de valor.
 
@@ -15,13 +15,13 @@ El valor de los tokens (bytcoins) los aporta la comunidad que es la que establec
 Todas las transaccinoes realizadas sirven a nivel mundial.
 
 Los tokens (bytcoins) sirven para:
-————————————————————————————————————–
+
 1.- Intercambio de activos en los futuros mercados de transferencia de tokens.
 2.- Adquisición de productos, servicios, ideas, conceptos, transferencias de valor, …
 3.- Compra y venta de software blockchain: Contratos inteligentes, registros, depósitos, …
 
 Los tokens (bytcoins) se consiguen:
-————————————————————————————————————–
+
 1.- Nodo + Minado SERVER escalable
 2.- Oferta Inicial Tokens ICO
 3.- Intercambio mediante transferencia de bytcoins entre partes.
@@ -52,18 +52,13 @@ Gracias.
 
 
 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 BYTCOINS in english
 New system of egalitarian and decentralized exchange where the stakeholders agree, in a transparent and anonymous way, the exchange conditions ensured by the nodes in the peer to peer network and the Blockchain block chain with state-of-the-art cryptographic technology.
 184 Billion tokens issued bytcoins
 Node + Minted in pair under SERVER
--------------------
+
 CRYPTOMONEDA IN SPANISH
--------------------
+
 
 The "Bytcoins en español" system is based on the CryptoNote protocol that provides security, transparency, anonymity, unbinding, equality and value limit.
 
@@ -74,13 +69,13 @@ The value of the tokens (bytcoins) is provided by the community that establishes
 All the transactions carried out serve worldwide.
 
 The tokens (bytcoins) serve to:
--------------------------------------
+
 1.- Exchange of assets in the future tokens transfer markets.
 2.- Acquisition of products, services, ideas, concepts, value transfers, ...
 3.- Purchase and sale of software blockchain: Smart contracts, records, deposits, ...
 
 The tokens (bytcoins) are achieved:
--------------------------------------
+
 1. Node + Mine Scalable SERVER
 2.- ICO Initial Offer
 3.- Exchange by transfer of bytcoins between parts.
