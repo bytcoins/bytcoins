@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "bytcoins";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121014ee26fa90eccbcedff0e4ace51a51467af7ebda58b372777eb5c61702afb4aaa";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
@@ -110,6 +110,7 @@ const std::initializer_list<const char*> SEED_NODES = {
   "31.220.54.79:17236",
   "31.220.59.157:17236",
   "156.67.218.73:17236",
+  "31.220.53.238:17236",
   
 };
 
