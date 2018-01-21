@@ -28,7 +28,7 @@ Todas las transacciones realizadas sirven a nivel mundial - internacional sin l√
 
 www.bytcoins.org<br>
 info@bytcoins.org<br>
-Gracias.<br>
+
 
 
 <h2>BYTCOINS in Spanish</h2><br>
@@ -62,4 +62,3 @@ All transactions carried out serve worldwide - international without geographica
 www.bytcoins.org<br>
 info@bytcoins.org<br>
 
-Thank you.<br>
