@@ -1,4 +1,4 @@
-<h2>BYTCOINS en español</h2><br>
+<h1>BYTCOINS en español</h1><br>
 Sistema de intercambio igualitario y descentralizado donde los interesados pactan, de manera transparente y anónima, las condiciones de intercambio aseguradas por los nodos en red peer to peer y la cadena de bloques Blockchain con tecnología criptográfica Cryptonote.<br>
 Máximo de tokens para emitir: 184.467.440.737,09551616 (BYT)<br>
 Nodos bajo servidores linux.(Ubuntu, Debian, Centos,...)<br>
@@ -27,7 +27,7 @@ Todas las transacciones realizadas sirven a nivel mundial - internacional sin l�
 3.- Intercambio mediante transferencia de bytcoins entre las partes en exchange o particularmente.<br>
 
 <h3>www.bytcoins.org</h3><br>
-info@bytcoins.org<br>
+<h3>info@bytcoins.org</h3><br>
 Gracias.<br>
 
 
@@ -60,6 +60,6 @@ All transactions carried out serve worldwide - international without geographica
 3.- Exchange by transfer of bytcoins between the parties in exchange or particularly.<br>
 
 <h3>www.bytcoins.org</h3><br>
-info@bytcoins.org<br>
+<h3>info@bytcoins.org</h3><br>
 
 Thank you.<br>
