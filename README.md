@@ -26,8 +26,8 @@ Todas las transacciones realizadas sirven a nivel mundial - internacional sin l√
 2.- Oferta Inicial de Tokens ICO a trav√©s de ABYTES y ofertas de particulares.<br>
 3.- Intercambio mediante transferencia de bytcoins entre las partes en exchange o particularmente.<br>
 
-<h3>www.bytcoins.org</h3><br>
-<h3>info@bytcoins.org</h3><br>
+www.bytcoins.org<br>
+info@bytcoins.org<br>
 Gracias.<br>
 
 
@@ -59,7 +59,7 @@ All transactions carried out serve worldwide - international without geographica
 2.- Initial offer of ICO Tokens through ABYTES and offers from individuals.<br>
 3.- Exchange by transfer of bytcoins between the parties in exchange or particularly.<br>
 
-<h3>www.bytcoins.org</h3><br>
-<h3>info@bytcoins.org</h3><br>
+www.bytcoins.org<br>
+info@bytcoins.org<br>
 
 Thank you.<br>
