@@ -5,20 +5,20 @@ Nodos bajo servidores linux.(Ubuntu, Debian, Centos,...)
 
 CRYPTOMONEDA EN ESPAÑOL
 
-El sistema “Bytcoins en español” está realizado sobre el protocolo CryptoNote que aporta seguridad, transparencia, anonimato, desvinculación, igualdad y límite de valor.
+El sistema “Bytcoins en español” está realizado sobre el protocolo CryptoNote que aporta seguridad, transparencia, anonimato, desvinculación, igualdad y límite de valor.<br>
 
-El reparto se distribuye de forma igualitaria mediante CPU y GPU en el minado, según dificultad del sistema y capacidad de procesamiento.
+El reparto se distribuye de forma igualitaria mediante CPU y GPU en el minado, según dificultad del sistema y capacidad de procesamiento.<br>
 
-El valor de los tokens (bytcoins) los aporta la comunidad que es la que establece la contraprestación de intercambio, sin especulación ni intermediación.
+El valor de los tokens (bytcoins) los aporta la comunidad que es la que establece la contraprestación de intercambio, sin especulación ni intermediación.<br>
 
-Todas las transacciones realizadas sirven a nivel mundial - internacional sin límites geográficos.
+Todas las transacciones realizadas sirven a nivel mundial - internacional sin límites geográficos.<br>
 
-Los tokens (bytcoins) sirven para:
+Los tokens (bytcoins) sirven para:<br>
 
-1.- Intercambio de activos en los mercados de transferencia de tokens.
-2.- Adquisición de productos, servicios, ideas, conceptos, transferencias de valor, …
-3.- Compra y venta de software blockchain: Contratos inteligentes, registros, depósitos, …
-4.- Creación de ICO (Solicitud de cryptonomeda para inversión de futuros proyectos) - IBO (intercambio de cryptomoneda por productos o servicios) - DAPS (Solicitud de cryptomonedas para inversión como participaciones en un proyecto ya en funcionamiento).
+1.- Intercambio de activos en los mercados de transferencia de tokens.<br>
+2.- Adquisición de productos, servicios, ideas, conceptos, transferencias de valor, …<br>
+3.- Compra y venta de software blockchain: Contratos inteligentes, registros, depósitos, …<br>
+4.- Creación de ICO (Solicitud de cryptonomeda para inversión de futuros proyectos) - IBO (intercambio de cryptomoneda por productos o servicios) - DAPS (Solicitud de cryptomonedas para inversión como participaciones en un proyecto ya en funcionamiento).<br>
 
 Los tokens (bytcoins) se consiguen:
 
